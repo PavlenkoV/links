@@ -1,12 +1,13 @@
-#####o	TWITTER PYTHON
-Python Hub
-https://twitter.com/pythonhub
-Python Eggs
-https://twitter.com/pythoneggs
-Full Stack Python
-https://twitter.com/fullstackpython?lang=uk
+#####TWITTER PYTHON  
+Python Hub  
+https://twitter.com/pythonhub  
+Python Eggs  
+https://twitter.com/pythoneggs  
+Full Stack Python  
+https://twitter.com/fullstackpython?lang=uk  
 
-#####o	COMMON
+
+#####COMMON
   * www.dou.ua
   * www.djinni.co
   * https://habrahabr.ru/
@@ -16,14 +17,15 @@ https://twitter.com/fullstackpython?lang=uk
   * http://ain.ua/
   * https://ebanoe.it/
 
-#####o	TESTING
+
+#####TESTING
   * http://automated-testing.info/
   * http://selenium2.ru/
   * https://habrahabr.ru/post/248559/
   * http://selenium-python.readthedocs.io/index.html
 
 
-#####o	PROGRAMMING
+#####PROGRAMMING
   * www.learnxinyminutes.com
   * www.overapi.com
   * https://github.com/detailyang/awesome-cheatsheet
@@ -34,12 +36,13 @@ https://twitter.com/fullstackpython?lang=uk
   * http://stackoverflow.com/
   * http://ru.stackoverflow.com/
 
-#####o	REGULAR EXPRESSION:
+
+#####REGULAR EXPRESSION:
   * https://txt2re.com
   * http://pythonre.appspot.com/
 
 
-#####o	PYTHON
+#####PYTHON
   * https://pythonpedia.com/
   * http://python.su/forum/
   * http://pythontutor.com/
@@ -62,7 +65,7 @@ https://twitter.com/fullstackpython?lang=uk
   * https://learnpythonthehardway.org/book/
 
 
-#####o	WEB
+#####WEB
   * http://codebeautify.org/
   * http://w3schools.com/
   * https://validator.w3.org/
@@ -73,14 +76,16 @@ https://twitter.com/fullstackpython?lang=uk
   * https://learn.javascript.ru/
   * http://caniuse.com/
   * http://dabblet.com/
+  
 
-#####o	API
+#####API
   * http://apigee.com
   * https://apiary.io/
   * http://www.mocky.io/
   * https://market.mashape.com
+  
 
-#####o	GIT AND SHELLS
+#####GIT AND SHELLS
   * http://ss64.com/
   * http://gitref.org/
   * http://www.codeproject.com/Articles/457305/Basic-Git-Command-Line-Reference-for-Windows-Users
