@@ -19,6 +19,14 @@ https://twitter.com/fullstackpython?lang=uk
   * https://ebanoe.it/
 
 
+#####ONLINE COURSES
+  * https://www.coursera.org/
+  * https://www.udacity.com/
+  * https://www.edx.org/
+  * https://www.freecodecamp.com/
+  * https://www.datacamp.com/
+
+
 #####TESTING
   * http://automated-testing.info/
   * http://selenium2.ru/
@@ -39,12 +47,14 @@ https://twitter.com/fullstackpython?lang=uk
 
 
 #####REGULAR EXPRESSION:
-  * https://txt2re.com
+  * https://uiregex.com/ru
   * http://pythonre.appspot.com/
+  *   * https://txt2re.com
 
 
 #####PYTHON
   * https://pythonpedia.com/
+  * http://pythonbooks.revolunet.com/
   * http://python.su/forum/
   * http://pythontutor.com/
   * http://docs.python-guide.org/en/latest/
@@ -80,7 +90,11 @@ https://twitter.com/fullstackpython?lang=uk
   * https://learn.javascript.ru/
   * http://caniuse.com/
   * http://dabblet.com/
-  
+  * https://lesson-web.ru/css_helper
+  * http://www.makeuseof.com/tag/get-curly-10-useful-things-can-curl/
+  * http://onlinecurl.com/
+  * https://en.support.wordpress.com/markdown-quick-reference/
+ 
 
 #####API
   * http://apigee.com
@@ -95,3 +109,4 @@ https://twitter.com/fullstackpython?lang=uk
   * http://www.codeproject.com/Articles/457305/Basic-Git-Command-Line-Reference-for-Windows-Users
   * http://eax.me/git-commands/
   * https://github.com/arslanbilal/git-cheat-sheet
+  * https://git-scm.com/book/en/v2
