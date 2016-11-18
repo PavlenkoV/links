@@ -12,6 +12,7 @@ https://twitter.com/fullstackpython?lang=uk
   * www.djinni.co
   * https://habrahabr.ru/
   * https://tproger.ru/
+  * http://itman.in/
   * https://geekbrains.ru
   * http://loftblog.ru/
   * http://ain.ua/
@@ -47,14 +48,17 @@ https://twitter.com/fullstackpython?lang=uk
   * http://python.su/forum/
   * http://pythontutor.com/
   * http://docs.python-guide.org/en/latest/
+  * https://gitter.im/dev-ua/python chat
   * https://www.pythtonsheets.com/
   * http://programming086.blogspot.com/2015/12/python-2015.html   Video
   * http://awesome-python.com/      A list of awesome Python frameworks, libraries, software.
   * http://jupyter.org/
   * https://pythondigest.ru/
+  * https://www.pythonsheets.com/
   * https://snakify.org/      Learning via practice
   * http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index
   * http://www.pocoo.org/internal/styleguide/
+  * https://tproger.ru/digest/data-science-python/  --- 181 links Python
   * http://pep8.ru/
   * http://pythontutor.ru/
   * http://www.java2s.com/Code/Python/CatalogPython.htm
