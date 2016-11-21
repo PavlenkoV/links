@@ -27,6 +27,17 @@ https://twitter.com/fullstackpython?lang=uk
   * https://www.datacamp.com/
 
 
+#####BLOGS
+  * http://planetpython.org/titles_only.html
+  * https://pythontips.com/
+  * https://www.hipstercode.com/
+  * https://www.fullstackpython.com/
+  * https://realpython.com/blog/
+  * http://www.blog.pythonlibrary.org/
+  * http://lucumr.pocoo.org/
+  * https://justin.abrah.ms/
+
+
 #####TESTING
   * http://automated-testing.info/
   * http://selenium2.ru/
@@ -110,3 +121,12 @@ https://twitter.com/fullstackpython?lang=uk
   * http://eax.me/git-commands/
   * https://github.com/arslanbilal/git-cheat-sheet
   * https://git-scm.com/book/en/v2
+
+
+####DJANGO
+  * https://djangopackages.org/
+  * http://awesome-django.com/
+
+
+####MODULES
+  * https://pymotw.com/3/
