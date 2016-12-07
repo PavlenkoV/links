@@ -39,6 +39,7 @@ https://twitter.com/fullstackpython?lang=uk
 
 
 #####TESTING
+  * http://pythontesting.net/start-here/
   * http://automated-testing.info/
   * http://selenium2.ru/
   * https://habrahabr.ru/post/248559/
