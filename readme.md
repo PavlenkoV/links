@@ -62,6 +62,7 @@ https://twitter.com/fullstackpython?lang=uk
   * https://uiregex.com/ru
   * http://pythonre.appspot.com/
   *   * https://txt2re.com
+  *   http://string-functions.com/encodedecode.aspx    Character Encoder / Decoder
 
 
 #####PYTHON
@@ -131,3 +132,11 @@ https://twitter.com/fullstackpython?lang=uk
 
 ####MODULES
   * https://pymotw.com/3/
+
+
+####JUPYTER NOTEBOOK
+  * https://habrahabr.ru/company/wunderfund/blog/316826/
+  * https://ipython.org/ipython-doc/3/interactive/magics.html
+  * http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/
+  * https://github.com/jupyterlab/jupyterlab
+
