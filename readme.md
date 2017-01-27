@@ -68,6 +68,7 @@ https://twitter.com/fullstackpython?lang=uk
 #####PYTHON
   * https://pythonpedia.com/
   * http://pythonbooks.revolunet.com/
+  * http://pypi-ranking.info
   * http://python.su/forum/
   * http://pythontutor.com/
   * http://docs.python-guide.org/en/latest/
