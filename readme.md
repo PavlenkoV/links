@@ -1,4 +1,4 @@
-#####TWITTER PYTHON  
+##### TWITTER PYTHON  
 Python Hub  
 https://twitter.com/pythonhub  
 Python Eggs  
@@ -7,7 +7,7 @@ Full Stack Python
 https://twitter.com/fullstackpython?lang=uk  
 
 
-#####COMMON
+##### COMMON
   * www.dou.ua
   * www.djinni.co
   * https://habrahabr.ru/
@@ -19,7 +19,7 @@ https://twitter.com/fullstackpython?lang=uk
   * https://ebanoe.it/
 
 
-#####ONLINE COURSES
+##### ONLINE COURSES
   * https://www.coursera.org/
   * https://www.udacity.com/
   * https://www.edx.org/
@@ -27,7 +27,7 @@ https://twitter.com/fullstackpython?lang=uk
   * https://www.datacamp.com/
 
 
-#####BLOGS
+##### BLOGS
   * http://planetpython.org/titles_only.html
   * https://pythontips.com/
   * https://www.hipstercode.com/
@@ -38,7 +38,7 @@ https://twitter.com/fullstackpython?lang=uk
   * https://justin.abrah.ms/
 
 
-#####TESTING
+##### TESTING
   * http://pythontesting.net/start-here/
   * http://automated-testing.info/
   * http://selenium2.ru/
@@ -46,7 +46,7 @@ https://twitter.com/fullstackpython?lang=uk
   * http://selenium-python.readthedocs.io/index.html
 
 
-#####PROGRAMMING
+##### PROGRAMMING
   * www.learnxinyminutes.com
   * www.overapi.com
   * https://github.com/detailyang/awesome-cheatsheet
@@ -58,14 +58,14 @@ https://twitter.com/fullstackpython?lang=uk
   * http://ru.stackoverflow.com/
 
 
-#####REGULAR EXPRESSION:
+##### REGULAR EXPRESSION:
   * https://uiregex.com/ru
   * http://pythonre.appspot.com/
   *   * https://txt2re.com
   *   http://string-functions.com/encodedecode.aspx    Character Encoder / Decoder
 
 
-#####PYTHON
+##### PYTHON
   * https://pythonpedia.com/
   * http://pythonbooks.revolunet.com/
   * http://pypi-ranking.info
@@ -93,7 +93,7 @@ https://twitter.com/fullstackpython?lang=uk
   * https://learnpythonthehardway.org/book/
 
 
-#####WEB
+##### WEB
   * http://codebeautify.org/
   * http://w3schools.com/
   * https://validator.w3.org/
@@ -110,14 +110,14 @@ https://twitter.com/fullstackpython?lang=uk
   * https://en.support.wordpress.com/markdown-quick-reference/
  
 
-#####API
+##### API
   * http://apigee.com
   * https://apiary.io/
   * http://www.mocky.io/
   * https://market.mashape.com
   
 
-#####GIT AND SHELLS
+##### GIT AND SHELLS
   * http://ss64.com/
   * http://gitref.org/
   * http://www.codeproject.com/Articles/457305/Basic-Git-Command-Line-Reference-for-Windows-Users
@@ -126,16 +126,16 @@ https://twitter.com/fullstackpython?lang=uk
   * https://git-scm.com/book/en/v2
 
 
-####DJANGO
+#### DJANGO
   * https://djangopackages.org/
   * http://awesome-django.com/
 
 
-####MODULES
+#### MODULES
   * https://pymotw.com/3/
 
 
-####JUPYTER NOTEBOOK
+#### JUPYTER NOTEBOOK
   * https://habrahabr.ru/company/wunderfund/blog/316826/
   * https://ipython.org/ipython-doc/3/interactive/magics.html
   * http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/
